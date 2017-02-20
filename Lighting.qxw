@@ -8,9 +8,7 @@
  </Creator>
  <Engine>
   <InputOutputMap>
-   <Universe Name="Universe 1" ID="0">
-    <Output Plugin="DMX USB"/>
-   </Universe>
+   <Universe Name="Universe 1" ID="0"/>
    <Universe Name="Universe 2" ID="1"/>
    <Universe Name="Universe 3" ID="2"/>
    <Universe Name="Universe 4" ID="3"/>
@@ -375,6 +373,13 @@
    <Address>75</Address>
    <Channels>3</Channels>
   </Fixture>
+  <ChannelsGroup ID="0" Name="Backstage" Value="0">21,0,22,0,23,0</ChannelsGroup>
+  <Monitor DisplayMode="1" ShowLabels="0">
+   <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
+   <ChannelStyle>0</ChannelStyle>
+   <ValueStyle>0</ValueStyle>
+   <Grid Width="5" Height="5" Units="0"/>
+  </Monitor>
  </Engine>
  <VirtualConsole>
   <Frame Caption="">
