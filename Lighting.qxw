@@ -4,7 +4,7 @@
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.5b</Version>
-  <Author>ROMkerrt</Author>
+  <Author>ROMobrienm</Author>
  </Creator>
  <Engine>
   <InputOutputMap>
@@ -374,6 +374,7 @@
    <Channels>3</Channels>
   </Fixture>
   <ChannelsGroup ID="0" Name="Backstage" Value="0">21,0,22,0,23,0</ChannelsGroup>
+  <ChannelsGroup ID="1" Name="FOH" Value="0">0,0,1,0,2,0,3,0,4,0,5,0</ChannelsGroup>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
    <ChannelStyle>0</ChannelStyle>
