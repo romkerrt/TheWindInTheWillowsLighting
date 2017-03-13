@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FixtureManager">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="ShowManager">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.5b</Version>
-  <Author>ROMobrienm</Author>
+  <Author>ROMkerrt</Author>
  </Creator>
  <Engine>
   <InputOutputMap>
@@ -375,6 +375,85 @@
   </Fixture>
   <ChannelsGroup ID="0" Name="Backstage" Value="0">21,0,22,0,23,0</ChannelsGroup>
   <ChannelsGroup ID="1" Name="FOH" Value="0">0,0,1,0,2,0,3,0,4,0,5,0</ChannelsGroup>
+  <Function ID="0" Type="Show" Name="A-01">
+   <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0"/>
+  </Function>
+  <Function ID="1" Type="Show" Name="A-02">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="2" Type="Show" Name="A-03">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="3" Type="Show" Name="A-04">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="4" Type="Show" Name="A-05">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="5" Type="Show" Name="A-06">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="6" Type="Show" Name="A-07">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="7" Type="Show" Name="A-08">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="8" Type="Show" Name="A-09">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="9" Type="Show" Name="A-10">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="10" Type="Show" Name="A-11">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="11" Type="Show" Name="A-12">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="12" Type="Show" Name="A-13">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="13" Type="Show" Name="A-14">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="14" Type="Show" Name="A-15">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="15" Type="Show" Name="A-16">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="16" Type="Show" Name="A-17">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="17" Type="Show" Name="A-18">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="18" Type="Show" Name="A-19">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="19" Type="Show" Name="A-20">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="20" Type="Show" Name="A-21">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="21" Type="Show" Name="A-22">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="22" Type="Show" Name="A-23">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="23" Type="Show" Name="A-24">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="24" Type="Show" Name="A-25">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="25" Type="Show" Name="A-26">
+   <TimeDivision Type="Time" BPM="120"/>
+  </Function>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
    <ChannelStyle>0</ChannelStyle>
