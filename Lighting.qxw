@@ -377,16 +377,27 @@
   <ChannelsGroup ID="1" Name="FOH" Value="0">0,0,1,0,2,0,3,0,4,0,5,0</ChannelsGroup>
   <Function ID="0" Type="Show" Name="A-01">
    <TimeDivision Type="Time" BPM="120"/>
-   <Track ID="0" Name="Track 1" isMute="0"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="26" StartTime="0" Duration="179890" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="1" Type="Show" Name="A-02">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="27" StartTime="0" Duration="81220" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="2" Type="Show" Name="A-03">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="28" StartTime="0" Duration="147990" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="3" Type="Show" Name="A-04">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="29" StartTime="0" Duration="208090" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="4" Type="Show" Name="A-05">
    <TimeDivision Type="Time" BPM="120"/>
@@ -453,6 +464,22 @@
   </Function>
   <Function ID="25" Type="Show" Name="A-26">
    <TimeDivision Type="Time" BPM="120"/>
+  </Function>
+  <Function ID="26" Type="Audio" Name="1.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/1.mp3</Source>
+  </Function>
+  <Function ID="27" Type="Audio" Name="2.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/2.mp3</Source>
+  </Function>
+  <Function ID="28" Type="Audio" Name="3.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/3.mp3</Source>
+  </Function>
+  <Function ID="29" Type="Audio" Name="4.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/4.mp3</Source>
   </Function>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
