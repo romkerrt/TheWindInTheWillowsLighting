@@ -404,66 +404,129 @@
   </Function>
   <Function ID="5" Type="Show" Name="A-06">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="30" StartTime="0" Duration="155430" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="6" Type="Show" Name="A-07">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="31" StartTime="0" Duration="227020" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="7" Type="Show" Name="A-08">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="32" StartTime="0" Duration="171000" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="8" Type="Show" Name="A-09">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="33" StartTime="0" Duration="65280" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="9" Type="Show" Name="A-10">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="34" StartTime="0" Duration="154670" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="10" Type="Show" Name="A-11">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="35" StartTime="0" Duration="201780" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="11" Type="Show" Name="A-12">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="36" StartTime="0" Duration="172120" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="12" Type="Show" Name="A-13">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="37" StartTime="0" Duration="164320" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="13" Type="Show" Name="A-14">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="39" StartTime="0" Duration="204750" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="14" Type="Show" Name="A-15">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="40" StartTime="0" Duration="165050" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="15" Type="Show" Name="A-16">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="41" StartTime="0" Duration="227020" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="16" Type="Show" Name="A-17">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="42" StartTime="0" Duration="57480" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="17" Type="Show" Name="A-18">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="43" StartTime="0" Duration="24460" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="18" Type="Show" Name="A-19">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="44" StartTime="0" Duration="146140" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="19" Type="Show" Name="A-20">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="45" StartTime="0" Duration="10740" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="20" Type="Show" Name="A-21">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="46" StartTime="0" Duration="8130" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="21" Type="Show" Name="A-22">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="47" StartTime="0" Duration="7400" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="22" Type="Show" Name="A-23">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="48" StartTime="0" Duration="6670" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="23" Type="Show" Name="A-24">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="49" StartTime="0" Duration="25220" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="24" Type="Show" Name="A-25">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="50" StartTime="0" Duration="7770" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="25" Type="Show" Name="A-26">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="51" StartTime="0" Duration="25580" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="26" Type="Audio" Name="1.mp3">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
@@ -480,6 +543,94 @@
   <Function ID="29" Type="Audio" Name="4.mp3">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
    <Source>D:/WindInTheWillows/OST/4.mp3</Source>
+  </Function>
+  <Function ID="30" Type="Audio" Name="6.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/6.mp3</Source>
+  </Function>
+  <Function ID="31" Type="Audio" Name="7.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/7.mp3</Source>
+  </Function>
+  <Function ID="32" Type="Audio" Name="8.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/8.mp3</Source>
+  </Function>
+  <Function ID="33" Type="Audio" Name="9.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/9.mp3</Source>
+  </Function>
+  <Function ID="34" Type="Audio" Name="10.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/10.mp3</Source>
+  </Function>
+  <Function ID="35" Type="Audio" Name="11.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/11.mp3</Source>
+  </Function>
+  <Function ID="36" Type="Audio" Name="12.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/12.mp3</Source>
+  </Function>
+  <Function ID="37" Type="Audio" Name="13.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/13.mp3</Source>
+  </Function>
+  <Function ID="38" Type="Audio" Name="">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/15.mp3</Source>
+  </Function>
+  <Function ID="39" Type="Audio" Name="14.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/14.mp3</Source>
+  </Function>
+  <Function ID="40" Type="Audio" Name="15.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/15.mp3</Source>
+  </Function>
+  <Function ID="41" Type="Audio" Name="16.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/16.mp3</Source>
+  </Function>
+  <Function ID="42" Type="Audio" Name="17.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/17.mp3</Source>
+  </Function>
+  <Function ID="43" Type="Audio" Name="18.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/18.mp3</Source>
+  </Function>
+  <Function ID="44" Type="Audio" Name="19.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/19.mp3</Source>
+  </Function>
+  <Function ID="45" Type="Audio" Name="20.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/20.mp3</Source>
+  </Function>
+  <Function ID="46" Type="Audio" Name="21.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/21.mp3</Source>
+  </Function>
+  <Function ID="47" Type="Audio" Name="22.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/22.mp3</Source>
+  </Function>
+  <Function ID="48" Type="Audio" Name="23.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/23.mp3</Source>
+  </Function>
+  <Function ID="49" Type="Audio" Name="24.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/24.mp3</Source>
+  </Function>
+  <Function ID="50" Type="Audio" Name="25.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/25.mp3</Source>
+  </Function>
+  <Function ID="51" Type="Audio" Name="26.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/26.mp3</Source>
   </Function>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
