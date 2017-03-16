@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="ShowManager">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.5b</Version>
@@ -401,6 +401,9 @@
   </Function>
   <Function ID="4" Type="Show" Name="A-05">
    <TimeDivision Type="Time" BPM="120"/>
+   <Track ID="0" Name="Track 1" isMute="0">
+    <ShowFunction ID="53" StartTime="0" Duration="183990" Color="#608053"/>
+   </Track>
   </Function>
   <Function ID="5" Type="Show" Name="A-06">
    <TimeDivision Type="Time" BPM="120"/>
@@ -631,6 +634,42 @@
   <Function ID="51" Type="Audio" Name="26.mp3">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
    <Source>D:/WindInTheWillows/OST/26.mp3</Source>
+  </Function>
+  <Function ID="52" Type="Chaser" Name="Song Cuelist">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="180000" FadeOut="0">0</Step>
+   <Step Number="1" FadeIn="0" Hold="82000" FadeOut="0">1</Step>
+   <Step Number="2" FadeIn="0" Hold="148000" FadeOut="0">2</Step>
+   <Step Number="3" FadeIn="0" Hold="209000" FadeOut="0">3</Step>
+   <Step Number="4" FadeIn="0" Hold="184000" FadeOut="0">4</Step>
+   <Step Number="5" FadeIn="0" Hold="156000" FadeOut="0">5</Step>
+   <Step Number="6" FadeIn="0" Hold="228000" FadeOut="0">6</Step>
+   <Step Number="7" FadeIn="0" Hold="172000" FadeOut="0">7</Step>
+   <Step Number="8" FadeIn="0" Hold="66000" FadeOut="0">8</Step>
+   <Step Number="9" FadeIn="0" Hold="155000" FadeOut="0">9</Step>
+   <Step Number="10" FadeIn="0" Hold="201000" FadeOut="0">10</Step>
+   <Step Number="11" FadeIn="0" Hold="173000" FadeOut="0">11</Step>
+   <Step Number="12" FadeIn="0" Hold="164000" FadeOut="0">12</Step>
+   <Step Number="13" FadeIn="0" Hold="205000" FadeOut="0">13</Step>
+   <Step Number="14" FadeIn="0" Hold="166000" FadeOut="0">14</Step>
+   <Step Number="15" FadeIn="0" Hold="228000" FadeOut="0">15</Step>
+   <Step Number="16" FadeIn="0" Hold="58000" FadeOut="0">16</Step>
+   <Step Number="17" FadeIn="0" Hold="25000" FadeOut="0">17</Step>
+   <Step Number="18" FadeIn="0" Hold="147000" FadeOut="0">18</Step>
+   <Step Number="19" FadeIn="0" Hold="11000" FadeOut="0">19</Step>
+   <Step Number="20" FadeIn="0" Hold="9000" FadeOut="0">20</Step>
+   <Step Number="21" FadeIn="0" Hold="8000" FadeOut="0">21</Step>
+   <Step Number="22" FadeIn="0" Hold="6000" FadeOut="0">22</Step>
+   <Step Number="23" FadeIn="0" Hold="26000" FadeOut="0">23</Step>
+   <Step Number="24" FadeIn="0" Hold="7000" FadeOut="0">24</Step>
+   <Step Number="25" FadeIn="0" Hold="26000" FadeOut="0">25</Step>
+  </Function>
+  <Function ID="53" Type="Audio" Name="5.mp3">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Source>D:/WindInTheWillows/OST/5.mp3</Source>
   </Function>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
