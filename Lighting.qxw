@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FunctionManager">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.5b</Version>
@@ -676,7 +676,7 @@
    <Direction>Forward</Direction>
    <RunOrder>Loop</RunOrder>
    <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
-   <Step Number="0" FadeIn="0" Hold="180000" FadeOut="0" Note="Ovature">0</Step>
+   <Step Number="0" FadeIn="0" Hold="180000" FadeOut="0" Note="Overture">0</Step>
    <Step Number="1" FadeIn="0" Hold="82000" FadeOut="0" Note="Friends Together">1</Step>
    <Step Number="2" FadeIn="0" Hold="82000" FadeOut="0" Note="Friends Together">56</Step>
    <Step Number="3" FadeIn="0" Hold="58000" FadeOut="0" Note="Scene Change">16</Step>
@@ -786,26 +786,26 @@
    <ChannelStyle>0</ChannelStyle>
    <ValueStyle>0</ValueStyle>
    <Grid Width="13" Height="18" Units="0"/>
-   <FxItem ID="18" XPos="9500" YPos="4000"/>
-   <FxItem ID="19" XPos="11500" YPos="4000"/>
-   <FxItem ID="16" XPos="5500" YPos="4000"/>
-   <FxItem ID="17" XPos="7500" YPos="4000"/>
-   <FxItem ID="14" XPos="1500" YPos="4000"/>
-   <FxItem ID="15" XPos="3500" YPos="4000"/>
-   <FxItem ID="12" XPos="9500" YPos="11500"/>
-   <FxItem ID="13" XPos="11500" YPos="11500"/>
-   <FxItem ID="10" XPos="5500" YPos="11500"/>
-   <FxItem ID="11" XPos="7500" YPos="11500"/>
+   <FxItem ID="7" XPos="12000" YPos="17500"/>
    <FxItem ID="8" XPos="1500" YPos="11500"/>
    <FxItem ID="9" XPos="3500" YPos="11500"/>
-   <FxItem ID="6" XPos="11000" YPos="17500"/>
-   <FxItem ID="7" XPos="12000" YPos="17500"/>
-   <FxItem ID="4" XPos="7000" YPos="17500"/>
-   <FxItem ID="5" XPos="8000" YPos="17500"/>
-   <FxItem ID="2" XPos="5000" YPos="17500"/>
-   <FxItem ID="3" XPos="6000" YPos="17500"/>
+   <FxItem ID="10" XPos="5500" YPos="11500"/>
+   <FxItem ID="11" XPos="7500" YPos="11500"/>
+   <FxItem ID="12" XPos="9500" YPos="11500"/>
+   <FxItem ID="13" XPos="11500" YPos="11500"/>
+   <FxItem ID="14" XPos="1500" YPos="4000"/>
+   <FxItem ID="15" XPos="3500" YPos="4000"/>
+   <FxItem ID="16" XPos="5500" YPos="4000"/>
+   <FxItem ID="17" XPos="7500" YPos="4000"/>
+   <FxItem ID="18" XPos="9500" YPos="4000"/>
+   <FxItem ID="19" XPos="11500" YPos="4000"/>
    <FxItem ID="0" XPos="1000" YPos="17500"/>
    <FxItem ID="1" XPos="2000" YPos="17500"/>
+   <FxItem ID="2" XPos="5000" YPos="17500"/>
+   <FxItem ID="3" XPos="6000" YPos="17500"/>
+   <FxItem ID="4" XPos="7000" YPos="17500"/>
+   <FxItem ID="5" XPos="8000" YPos="17500"/>
+   <FxItem ID="6" XPos="11000" YPos="17500"/>
   </Monitor>
  </Engine>
  <VirtualConsole>
@@ -818,7 +818,7 @@
     <Font>Default</Font>
    </Appearance>
    <CueList Caption="Cue list" ID="0">
-    <WindowState Visible="True" X="0" Y="0" Width="1370" Height="765"/>
+    <WindowState Visible="False" X="0" Y="0" Width="1370" Height="765"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
