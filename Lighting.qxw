@@ -781,31 +781,147 @@
     <ShowFunction ID="69" StartTime="0" Duration="204750" Color="#608053"/>
    </Track>
   </Function>
+  <Function ID="71" Type="Scene" Name="S02-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="72" Type="Scene" Name="S02-2" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="73" Type="Scene" Name="S04-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="74" Type="Scene" Name="S06-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="75" Type="Scene" Name="S09-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="76" Type="Scene" Name="S10-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="77" Type="Scene" Name="S12-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="78" Type="Scene" Name="S12-2" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="79" Type="Scene" Name="S15-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="80" Type="Scene" Name="S15-2" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="81" Type="Scene" Name="S16-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="82" Type="Scene" Name="S18-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="83" Type="Scene" Name="S19-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="84" Type="Scene" Name="S20-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="85" Type="Scene" Name="S22-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="86" Type="Scene" Name="S22-2" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="87" Type="Scene" Name="S23-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="88" Type="Scene" Name="S24-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="89" Type="Scene" Name="S24-2" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="90" Type="Scene" Name="S25-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="91" Type="Scene" Name="S25-2" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="92" Type="Scene" Name="S25-3" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="93" Type="Scene" Name="S26-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="94" Type="Scene" Name="S27-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="95" Type="Scene" Name="S27-2" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="96" Type="Scene" Name="S28-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="97" Type="Scene" Name="SafeBO" Path="Utils">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="98" Type="Scene" Name="FullBO" Path="Utils">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
+  <Function ID="99" Type="Scene" Name="FullWash" Path="Utils">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="4294967295"/>
+  </Function>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
    <ChannelStyle>0</ChannelStyle>
    <ValueStyle>0</ValueStyle>
    <Grid Width="13" Height="18" Units="0"/>
-   <FxItem ID="7" XPos="12000" YPos="17500"/>
-   <FxItem ID="8" XPos="1500" YPos="11500"/>
-   <FxItem ID="9" XPos="3500" YPos="11500"/>
-   <FxItem ID="10" XPos="5500" YPos="11500"/>
-   <FxItem ID="11" XPos="7500" YPos="11500"/>
-   <FxItem ID="12" XPos="9500" YPos="11500"/>
-   <FxItem ID="13" XPos="11500" YPos="11500"/>
-   <FxItem ID="14" XPos="1500" YPos="4000"/>
-   <FxItem ID="15" XPos="3500" YPos="4000"/>
    <FxItem ID="16" XPos="5500" YPos="4000"/>
    <FxItem ID="17" XPos="7500" YPos="4000"/>
    <FxItem ID="18" XPos="9500" YPos="4000"/>
    <FxItem ID="19" XPos="11500" YPos="4000"/>
+   <FxItem ID="12" XPos="9500" YPos="11500"/>
+   <FxItem ID="13" XPos="11500" YPos="11500"/>
+   <FxItem ID="14" XPos="1500" YPos="4000"/>
+   <FxItem ID="15" XPos="3500" YPos="4000"/>
+   <FxItem ID="8" XPos="1500" YPos="11500"/>
+   <FxItem ID="9" XPos="3500" YPos="11500"/>
+   <FxItem ID="10" XPos="5500" YPos="11500"/>
+   <FxItem ID="11" XPos="7500" YPos="11500"/>
+   <FxItem ID="4" XPos="7000" YPos="17500"/>
+   <FxItem ID="5" XPos="8000" YPos="17500"/>
+   <FxItem ID="6" XPos="11000" YPos="17500"/>
+   <FxItem ID="7" XPos="12000" YPos="17500"/>
    <FxItem ID="0" XPos="1000" YPos="17500"/>
    <FxItem ID="1" XPos="2000" YPos="17500"/>
    <FxItem ID="2" XPos="5000" YPos="17500"/>
    <FxItem ID="3" XPos="6000" YPos="17500"/>
-   <FxItem ID="4" XPos="7000" YPos="17500"/>
-   <FxItem ID="5" XPos="8000" YPos="17500"/>
-   <FxItem ID="6" XPos="11000" YPos="17500"/>
   </Monitor>
  </Engine>
  <VirtualConsole>
