@@ -679,57 +679,57 @@
    <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="0">98</Step>
    <Step Number="1" FadeIn="900000" Hold="300000" FadeOut="300000" Note="Warm Up">99</Step>
    <Step Number="2" FadeIn="3000" Hold="4294967294" FadeOut="3000">97</Step>
-   <Step Number="3" FadeIn="0" Hold="180000" FadeOut="0" Note="Overture">0</Step>
-   <Step Number="4" FadeIn="3000" Hold="4294967294" FadeOut="3000">71</Step>
-   <Step Number="5" FadeIn="0" Hold="157000" FadeOut="0" Note="Friends Together">1</Step>
-   <Step Number="6" FadeIn="3000" Hold="4294967294" FadeOut="3000">72</Step>
-   <Step Number="7" FadeIn="0" Hold="58000" FadeOut="0" Note="Scene Change">16</Step>
-   <Step Number="8" FadeIn="3000" Hold="4294967294" FadeOut="3000">73</Step>
-   <Step Number="9" FadeIn="0" Hold="148000" FadeOut="10000" Note="Bright Yellow Caravan">2</Step>
-   <Step Number="10" FadeIn="0" Hold="11000" FadeOut="0" Note="Crash SFX">19</Step>
-   <Step Number="11" FadeIn="3000" Hold="4294967294" FadeOut="3000">74</Step>
-   <Step Number="12" FadeIn="0" Hold="147000" FadeOut="0" Note="Wind SFX">18</Step>
-   <Step Number="13" FadeIn="3000" Hold="4294967294" FadeOut="3000">75</Step>
-   <Step Number="14" FadeIn="0" Hold="58000" FadeOut="0" Note="Scene Change">58</Step>
-   <Step Number="15" FadeIn="3000" Hold="4294967294" FadeOut="3000">76</Step>
-   <Step Number="16" FadeIn="3000" Hold="4294967294" FadeOut="3000">77</Step>
-   <Step Number="17" FadeIn="3000" Hold="4294967294" FadeOut="3000">78</Step>
-   <Step Number="18" FadeIn="0" Hold="58000" FadeOut="0" Note="Scene Change">62</Step>
-   <Step Number="19" FadeIn="3000" Hold="4294967294" FadeOut="3000">79</Step>
-   <Step Number="20" FadeIn="0" Hold="11000" FadeOut="0" Note="Crash SFX">60</Step>
-   <Step Number="21" FadeIn="3000" Hold="4294967294" FadeOut="3000">80</Step>
-   <Step Number="22" FadeIn="0" Hold="228000" FadeOut="0" Note="King of the Road">15</Step>
-   <Step Number="23" FadeIn="3000" Hold="4294967294" FadeOut="3000">81</Step>
-   <Step Number="24" FadeIn="0" Hold="58000" FadeOut="0" Note="Scene Change - End Act 1">64</Step>
+   <Step Number="3" FadeIn="0" Hold="180000" FadeOut="0" Note="** Overture">0</Step>
+   <Step Number="4" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">71</Step>
+   <Step Number="5" FadeIn="0" Hold="157000" FadeOut="0" Note="** Friends Together">1</Step>
+   <Step Number="6" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">72</Step>
+   <Step Number="7" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">16</Step>
+   <Step Number="8" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">73</Step>
+   <Step Number="9" FadeIn="0" Hold="148000" FadeOut="10000" Note="** Bright Yellow Caravan">2</Step>
+   <Step Number="10" FadeIn="0" Hold="11000" FadeOut="0" Note="** Crash SFX">19</Step>
+   <Step Number="11" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">74</Step>
+   <Step Number="12" FadeIn="0" Hold="147000" FadeOut="0" Note="** Wind SFX">18</Step>
+   <Step Number="13" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">75</Step>
+   <Step Number="14" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">58</Step>
+   <Step Number="15" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">76</Step>
+   <Step Number="16" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">77</Step>
+   <Step Number="17" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">78</Step>
+   <Step Number="18" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">62</Step>
+   <Step Number="19" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">79</Step>
+   <Step Number="20" FadeIn="0" Hold="11000" FadeOut="0" Note="** Crash SFX">60</Step>
+   <Step Number="21" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">80</Step>
+   <Step Number="22" FadeIn="0" Hold="228000" FadeOut="0" Note="** King of the Road">15</Step>
+   <Step Number="23" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">81</Step>
+   <Step Number="24" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change - End Act 1">64</Step>
    <Step Number="25" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">97</Step>
    <Step Number="26" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">98</Step>
    <Step Number="27" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">97</Step>
-   <Step Number="28" FadeIn="0" Hold="66000" FadeOut="0" Note="Entr'ance">8</Step>
-   <Step Number="29" FadeIn="3000" Hold="4294967294" FadeOut="3000">82</Step>
-   <Step Number="30" FadeIn="0" Hold="155000" FadeOut="0" Note="Cheer Up Toad">9</Step>
-   <Step Number="31" FadeIn="3000" Hold="4294967294" FadeOut="3000">83</Step>
-   <Step Number="32" FadeIn="0" Hold="9000" FadeOut="0" Note="Jail SFX">20</Step>
-   <Step Number="33" FadeIn="3000" Hold="4294967294" FadeOut="3000">84</Step>
-   <Step Number="34" FadeIn="0" Hold="201000" FadeOut="0" Note="The Chase-Chase">10</Step>
-   <Step Number="35" FadeIn="3000" Hold="4294967294" FadeOut="3000">85</Step>
-   <Step Number="36" FadeIn="0" Hold="6000" FadeOut="0" Note="Horse SFX">22</Step>
-   <Step Number="37" FadeIn="3000" Hold="4294967294" FadeOut="3000">86</Step>
-   <Step Number="38" FadeIn="3000" Hold="4294967294" FadeOut="3000">87</Step>
-   <Step Number="39" FadeIn="0" Hold="173000" FadeOut="0" Note="They're The Stoats">11</Step>
-   <Step Number="40" FadeIn="3000" Hold="4294967294" FadeOut="3000">88</Step>
-   <Step Number="41" FadeIn="3000" Hold="4294967294" FadeOut="3000">89</Step>
-   <Step Number="42" FadeIn="3000" Hold="4294967294" FadeOut="3000">90</Step>
-   <Step Number="43" FadeIn="0" Hold="11000" FadeOut="0" Note="Crash SFX">66</Step>
-   <Step Number="44" FadeIn="3000" Hold="4294967294" FadeOut="3000">91</Step>
-   <Step Number="45" FadeIn="3000" Hold="4294967294" FadeOut="3000">92</Step>
-   <Step Number="46" FadeIn="3000" Hold="4294967294" FadeOut="3000">93</Step>
-   <Step Number="47" FadeIn="3000" Hold="4294967294" FadeOut="3000">94</Step>
-   <Step Number="48" FadeIn="0" Hold="26000" FadeOut="0" Note="People SFX">23</Step>
-   <Step Number="49" FadeIn="3000" Hold="4294967294" FadeOut="0">95</Step>
-   <Step Number="50" FadeIn="0" Hold="205000" FadeOut="0" Note="Life Of Luxury">13</Step>
-   <Step Number="51" FadeIn="3000" Hold="4294967294" FadeOut="0">96</Step>
-   <Step Number="52" FadeIn="0" Hold="166000" FadeOut="0" Note="Friends Together Finale">14</Step>
-   <Step Number="53" FadeIn="3000" Hold="4294967294" FadeOut="3000">97</Step>
+   <Step Number="28" FadeIn="0" Hold="66000" FadeOut="0" Note="** Entr'ance">8</Step>
+   <Step Number="29" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">82</Step>
+   <Step Number="30" FadeIn="0" Hold="155000" FadeOut="0" Note="** Cheer Up Toad">9</Step>
+   <Step Number="31" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">83</Step>
+   <Step Number="32" FadeIn="0" Hold="9000" FadeOut="0" Note="** Jail SFX">20</Step>
+   <Step Number="33" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">84</Step>
+   <Step Number="34" FadeIn="0" Hold="201000" FadeOut="0" Note="**The Chase-Chase">10</Step>
+   <Step Number="35" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">85</Step>
+   <Step Number="36" FadeIn="0" Hold="6000" FadeOut="0" Note="**Horse SFX">22</Step>
+   <Step Number="37" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">86</Step>
+   <Step Number="38" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">87</Step>
+   <Step Number="39" FadeIn="0" Hold="173000" FadeOut="0" Note="**They're The Stoats">11</Step>
+   <Step Number="40" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">88</Step>
+   <Step Number="41" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">89</Step>
+   <Step Number="42" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">90</Step>
+   <Step Number="43" FadeIn="0" Hold="11000" FadeOut="0" Note="**Crash SFX">66</Step>
+   <Step Number="44" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">91</Step>
+   <Step Number="45" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">92</Step>
+   <Step Number="46" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">93</Step>
+   <Step Number="47" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">94</Step>
+   <Step Number="48" FadeIn="0" Hold="26000" FadeOut="0" Note="** People SFX">23</Step>
+   <Step Number="49" FadeIn="3000" Hold="4294967294" FadeOut="0" Note="**">95</Step>
+   <Step Number="50" FadeIn="0" Hold="205000" FadeOut="0" Note="** Life Of Luxury">13</Step>
+   <Step Number="51" FadeIn="3000" Hold="4294967294" FadeOut="0" Note="**">96</Step>
+   <Step Number="52" FadeIn="0" Hold="166000" FadeOut="0" Note="** Friends Together Finale">14</Step>
+   <Step Number="53" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">97</Step>
    <Step Number="54" FadeIn="0" Hold="180000" FadeOut="0" Note="Bows">68</Step>
    <Step Number="55" FadeIn="3000" Hold="4294967294" FadeOut="3000">99</Step>
    <Step Number="56" FadeIn="0" Hold="205000" FadeOut="0" Note="Encore">70</Step>
@@ -946,12 +946,12 @@
    <FixtureVal ID="21">0,255</FixtureVal>
    <FixtureVal ID="22">0,255</FixtureVal>
    <FixtureVal ID="23">0,255</FixtureVal>
-   <FixtureVal ID="24">0,0,1,0,2,0</FixtureVal>
-   <FixtureVal ID="25">0,0,1,0,2,0</FixtureVal>
-   <FixtureVal ID="26">0,0,1,0,2,0</FixtureVal>
-   <FixtureVal ID="27">0,0,1,0,2,0</FixtureVal>
-   <FixtureVal ID="28">0,0,1,0,2,0</FixtureVal>
-   <FixtureVal ID="29">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="24">0,0,1,0,2,63</FixtureVal>
+   <FixtureVal ID="25">0,0,1,0,2,63</FixtureVal>
+   <FixtureVal ID="26">0,0,1,0,2,63</FixtureVal>
+   <FixtureVal ID="27">0,0,1,0,2,63</FixtureVal>
+   <FixtureVal ID="28">0,0,1,0,2,63</FixtureVal>
+   <FixtureVal ID="29">0,0,1,0,2,63</FixtureVal>
    <FixtureVal ID="30">0,0,1,0,2,0</FixtureVal>
    <FixtureVal ID="31">0,0,1,0,2,0</FixtureVal>
    <FixtureVal ID="32">0,0,1,0,2,0</FixtureVal>
