@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FunctionManager">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.5b</Version>
@@ -380,11 +380,15 @@
    <Track ID="0" Name="Track 1" isMute="0">
     <ShowFunction ID="26" StartTime="0" Duration="179890" Color="#608053"/>
    </Track>
+   <Track ID="1" Name="Track 2" isMute="0"/>
   </Function>
   <Function ID="1" Type="Show" Name="A-02-1">
    <TimeDivision Type="Time" BPM="120"/>
    <Track ID="0" Name="Track 1" isMute="0">
     <ShowFunction ID="100" StartTime="0" Duration="156421" Color="#608053"/>
+   </Track>
+   <Track ID="1" Name="Track 2" SceneID="103" isMute="0">
+    <ShowFunction ID="104" StartTime="0" Duration="380000" Color="#556b80"/>
    </Track>
   </Function>
   <Function ID="2" Type="Show" Name="A-03">
@@ -475,6 +479,9 @@
    <TimeDivision Type="Time" BPM="120"/>
    <Track ID="0" Name="Track 1" isMute="0">
     <ShowFunction ID="42" StartTime="0" Duration="57480" Color="#608053"/>
+   </Track>
+   <Track ID="1" Name="Track 2" SceneID="106" isMute="0">
+    <ShowFunction ID="107" StartTime="0" Duration="305000" Color="#556b80"/>
    </Track>
   </Function>
   <Function ID="17" Type="Show" Name="A-18">
@@ -680,61 +687,62 @@
    <Step Number="1" FadeIn="900000" Hold="300000" FadeOut="300000" Note="Warm Up">99</Step>
    <Step Number="2" FadeIn="3000" Hold="4294967294" FadeOut="3000">97</Step>
    <Step Number="3" FadeIn="0" Hold="180000" FadeOut="0" Note="** Overture">0</Step>
-   <Step Number="4" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">71</Step>
-   <Step Number="5" FadeIn="0" Hold="157000" FadeOut="0" Note="** Friends Together">1</Step>
-   <Step Number="6" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">72</Step>
-   <Step Number="7" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">16</Step>
-   <Step Number="8" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">73</Step>
-   <Step Number="9" FadeIn="0" Hold="148000" FadeOut="10000" Note="** Bright Yellow Caravan">2</Step>
-   <Step Number="10" FadeIn="0" Hold="11000" FadeOut="0" Note="** Crash SFX">19</Step>
-   <Step Number="11" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">74</Step>
-   <Step Number="12" FadeIn="0" Hold="147000" FadeOut="0" Note="** Wind SFX">18</Step>
-   <Step Number="13" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">75</Step>
-   <Step Number="14" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">58</Step>
-   <Step Number="15" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">76</Step>
-   <Step Number="16" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">77</Step>
-   <Step Number="17" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">78</Step>
-   <Step Number="18" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">62</Step>
-   <Step Number="19" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">79</Step>
-   <Step Number="20" FadeIn="0" Hold="11000" FadeOut="0" Note="** Crash SFX">60</Step>
-   <Step Number="21" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">80</Step>
-   <Step Number="22" FadeIn="0" Hold="228000" FadeOut="0" Note="** King of the Road">15</Step>
-   <Step Number="23" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">81</Step>
-   <Step Number="24" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change - End Act 1">64</Step>
-   <Step Number="25" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">97</Step>
-   <Step Number="26" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">98</Step>
-   <Step Number="27" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">97</Step>
-   <Step Number="28" FadeIn="0" Hold="66000" FadeOut="0" Note="** Entr'ance">8</Step>
-   <Step Number="29" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">82</Step>
-   <Step Number="30" FadeIn="0" Hold="155000" FadeOut="0" Note="** Cheer Up Toad">9</Step>
-   <Step Number="31" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">83</Step>
-   <Step Number="32" FadeIn="0" Hold="9000" FadeOut="0" Note="** Jail SFX">20</Step>
-   <Step Number="33" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">84</Step>
-   <Step Number="34" FadeIn="0" Hold="201000" FadeOut="0" Note="**The Chase-Chase">10</Step>
-   <Step Number="35" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">85</Step>
-   <Step Number="36" FadeIn="0" Hold="6000" FadeOut="0" Note="**Horse SFX">22</Step>
-   <Step Number="37" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">86</Step>
-   <Step Number="38" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">87</Step>
-   <Step Number="39" FadeIn="0" Hold="173000" FadeOut="0" Note="**They're The Stoats">11</Step>
-   <Step Number="40" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">88</Step>
-   <Step Number="41" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">89</Step>
-   <Step Number="42" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">90</Step>
-   <Step Number="43" FadeIn="0" Hold="11000" FadeOut="0" Note="**Crash SFX">66</Step>
-   <Step Number="44" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">91</Step>
-   <Step Number="45" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">92</Step>
-   <Step Number="46" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">93</Step>
-   <Step Number="47" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">94</Step>
-   <Step Number="48" FadeIn="0" Hold="26000" FadeOut="0" Note="** People SFX">23</Step>
-   <Step Number="49" FadeIn="3000" Hold="4294967294" FadeOut="0" Note="**">95</Step>
-   <Step Number="50" FadeIn="0" Hold="205000" FadeOut="0" Note="** Life Of Luxury">13</Step>
-   <Step Number="51" FadeIn="3000" Hold="4294967294" FadeOut="0" Note="**">96</Step>
-   <Step Number="52" FadeIn="0" Hold="166000" FadeOut="0" Note="** Friends Together Finale">14</Step>
-   <Step Number="53" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">97</Step>
-   <Step Number="54" FadeIn="0" Hold="180000" FadeOut="0" Note="Bows">68</Step>
-   <Step Number="55" FadeIn="3000" Hold="4294967294" FadeOut="3000">99</Step>
-   <Step Number="56" FadeIn="0" Hold="205000" FadeOut="0" Note="Encore">70</Step>
-   <Step Number="57" FadeIn="3000" Hold="4294967294" FadeOut="3000">99</Step>
-   <Step Number="58" FadeIn="3000" Hold="4294967294" FadeOut="3000">97</Step>
+   <Step Number="4" FadeIn="3000" Hold="4294967294" FadeOut="3000">71</Step>
+   <Step Number="5" FadeIn="0" Hold="157000" FadeOut="0" Note="Friends Together">1</Step>
+   <Step Number="6" FadeIn="3000" Hold="4294967294" FadeOut="3000">72</Step>
+   <Step Number="7" FadeIn="3000" Hold="4294967294" FadeOut="3000">105</Step>
+   <Step Number="8" FadeIn="0" Hold="58000" FadeOut="0" Note="Scene Change">16</Step>
+   <Step Number="9" FadeIn="3000" Hold="4294967294" FadeOut="3000">73</Step>
+   <Step Number="10" FadeIn="0" Hold="148000" FadeOut="10000" Note="** Bright Yellow Caravan">2</Step>
+   <Step Number="11" FadeIn="0" Hold="11000" FadeOut="0" Note="** Crash SFX">19</Step>
+   <Step Number="12" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">74</Step>
+   <Step Number="13" FadeIn="0" Hold="147000" FadeOut="0" Note="** Wind SFX">18</Step>
+   <Step Number="14" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">75</Step>
+   <Step Number="15" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">58</Step>
+   <Step Number="16" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">76</Step>
+   <Step Number="17" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">77</Step>
+   <Step Number="18" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">78</Step>
+   <Step Number="19" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change">62</Step>
+   <Step Number="20" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">79</Step>
+   <Step Number="21" FadeIn="0" Hold="11000" FadeOut="0" Note="** Crash SFX">60</Step>
+   <Step Number="22" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">80</Step>
+   <Step Number="23" FadeIn="0" Hold="228000" FadeOut="0" Note="** King of the Road">15</Step>
+   <Step Number="24" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">81</Step>
+   <Step Number="25" FadeIn="0" Hold="58000" FadeOut="0" Note="** Scene Change - End Act 1">64</Step>
+   <Step Number="26" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">97</Step>
+   <Step Number="27" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">98</Step>
+   <Step Number="28" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="INTERVAL">97</Step>
+   <Step Number="29" FadeIn="0" Hold="66000" FadeOut="0" Note="** Entr'ance">8</Step>
+   <Step Number="30" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">82</Step>
+   <Step Number="31" FadeIn="0" Hold="155000" FadeOut="0" Note="** Cheer Up Toad">9</Step>
+   <Step Number="32" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">83</Step>
+   <Step Number="33" FadeIn="0" Hold="9000" FadeOut="0" Note="** Jail SFX">20</Step>
+   <Step Number="34" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">84</Step>
+   <Step Number="35" FadeIn="0" Hold="201000" FadeOut="0" Note="**The Chase-Chase">10</Step>
+   <Step Number="36" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">85</Step>
+   <Step Number="37" FadeIn="0" Hold="6000" FadeOut="0" Note="**Horse SFX">22</Step>
+   <Step Number="38" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">86</Step>
+   <Step Number="39" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">87</Step>
+   <Step Number="40" FadeIn="0" Hold="173000" FadeOut="0" Note="**They're The Stoats">11</Step>
+   <Step Number="41" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">88</Step>
+   <Step Number="42" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">89</Step>
+   <Step Number="43" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">90</Step>
+   <Step Number="44" FadeIn="0" Hold="11000" FadeOut="0" Note="**Crash SFX">66</Step>
+   <Step Number="45" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">91</Step>
+   <Step Number="46" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">92</Step>
+   <Step Number="47" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">93</Step>
+   <Step Number="48" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">94</Step>
+   <Step Number="49" FadeIn="0" Hold="26000" FadeOut="0" Note="** People SFX">23</Step>
+   <Step Number="50" FadeIn="3000" Hold="4294967294" FadeOut="0" Note="**">95</Step>
+   <Step Number="51" FadeIn="0" Hold="205000" FadeOut="0" Note="** Life Of Luxury">13</Step>
+   <Step Number="52" FadeIn="3000" Hold="4294967294" FadeOut="0" Note="**">96</Step>
+   <Step Number="53" FadeIn="0" Hold="166000" FadeOut="0" Note="** Friends Together Finale">14</Step>
+   <Step Number="54" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">97</Step>
+   <Step Number="55" FadeIn="0" Hold="180000" FadeOut="0" Note="Bows">68</Step>
+   <Step Number="56" FadeIn="3000" Hold="4294967294" FadeOut="3000">99</Step>
+   <Step Number="57" FadeIn="0" Hold="205000" FadeOut="0" Note="Encore">70</Step>
+   <Step Number="58" FadeIn="3000" Hold="4294967294" FadeOut="3000">99</Step>
+   <Step Number="59" FadeIn="3000" Hold="4294967294" FadeOut="3000">97</Step>
   </Function>
   <Function ID="55" Type="Audio" Name="Copy of 2.mp3">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
@@ -818,14 +826,92 @@
   </Function>
   <Function ID="71" Type="Scene" Name="S02-1" Path="Show Cues">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,0</FixtureVal>
+   <FixtureVal ID="1">0,0</FixtureVal>
+   <FixtureVal ID="2">0,0</FixtureVal>
+   <FixtureVal ID="3">0,0</FixtureVal>
+   <FixtureVal ID="4">0,0</FixtureVal>
+   <FixtureVal ID="5">0,0</FixtureVal>
+   <FixtureVal ID="6">0,0</FixtureVal>
+   <FixtureVal ID="7">0,0</FixtureVal>
+   <FixtureVal ID="8">0,0</FixtureVal>
+   <FixtureVal ID="9">0,0</FixtureVal>
+   <FixtureVal ID="10">0,0</FixtureVal>
+   <FixtureVal ID="11">0,0</FixtureVal>
+   <FixtureVal ID="12">0,0</FixtureVal>
+   <FixtureVal ID="13">0,0</FixtureVal>
+   <FixtureVal ID="14">0,0</FixtureVal>
+   <FixtureVal ID="15">0,0</FixtureVal>
+   <FixtureVal ID="16">0,255</FixtureVal>
+   <FixtureVal ID="17">0,255</FixtureVal>
+   <FixtureVal ID="18">0,0</FixtureVal>
+   <FixtureVal ID="19">0,0</FixtureVal>
+   <FixtureVal ID="20">0,0</FixtureVal>
+   <FixtureVal ID="21">0,0</FixtureVal>
+   <FixtureVal ID="22">0,0</FixtureVal>
+   <FixtureVal ID="23">0,0</FixtureVal>
    <FixtureVal ID="4294967295"/>
   </Function>
   <Function ID="72" Type="Scene" Name="S02-2" Path="Show Cues">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,0</FixtureVal>
+   <FixtureVal ID="1">0,0</FixtureVal>
+   <FixtureVal ID="2">0,255</FixtureVal>
+   <FixtureVal ID="3">0,0</FixtureVal>
+   <FixtureVal ID="4">0,0</FixtureVal>
+   <FixtureVal ID="5">0,0</FixtureVal>
+   <FixtureVal ID="6">0,0</FixtureVal>
+   <FixtureVal ID="7">0,0</FixtureVal>
+   <FixtureVal ID="8">0,0</FixtureVal>
+   <FixtureVal ID="9">0,255</FixtureVal>
+   <FixtureVal ID="10">0,255</FixtureVal>
+   <FixtureVal ID="11">0,255</FixtureVal>
+   <FixtureVal ID="12">0,0</FixtureVal>
+   <FixtureVal ID="13">0,0</FixtureVal>
+   <FixtureVal ID="14">0,0</FixtureVal>
+   <FixtureVal ID="15">0,0</FixtureVal>
+   <FixtureVal ID="16">0,255</FixtureVal>
+   <FixtureVal ID="17">0,255</FixtureVal>
+   <FixtureVal ID="18">0,0</FixtureVal>
+   <FixtureVal ID="19">0,0</FixtureVal>
+   <FixtureVal ID="20">0,0</FixtureVal>
+   <FixtureVal ID="21">0,0</FixtureVal>
+   <FixtureVal ID="22">0,0</FixtureVal>
+   <FixtureVal ID="23">0,0</FixtureVal>
+   <FixtureVal ID="24">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="25">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="26">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="27">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="28">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="29">0,0,1,127,2,255</FixtureVal>
    <FixtureVal ID="4294967295"/>
   </Function>
   <Function ID="73" Type="Scene" Name="S04-1" Path="Show Cues">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,0</FixtureVal>
+   <FixtureVal ID="1">0,0</FixtureVal>
+   <FixtureVal ID="2">0,0</FixtureVal>
+   <FixtureVal ID="3">0,0</FixtureVal>
+   <FixtureVal ID="4">0,0</FixtureVal>
+   <FixtureVal ID="5">0,0</FixtureVal>
+   <FixtureVal ID="6">0,255</FixtureVal>
+   <FixtureVal ID="7">0,255</FixtureVal>
+   <FixtureVal ID="8">0,0</FixtureVal>
+   <FixtureVal ID="9">0,0</FixtureVal>
+   <FixtureVal ID="10">0,0</FixtureVal>
+   <FixtureVal ID="11">0,0</FixtureVal>
+   <FixtureVal ID="12">0,0</FixtureVal>
+   <FixtureVal ID="13">0,0</FixtureVal>
+   <FixtureVal ID="14">0,0</FixtureVal>
+   <FixtureVal ID="15">0,0</FixtureVal>
+   <FixtureVal ID="16">0,0</FixtureVal>
+   <FixtureVal ID="17">0,0</FixtureVal>
+   <FixtureVal ID="18">0,0</FixtureVal>
+   <FixtureVal ID="19">0,0</FixtureVal>
+   <FixtureVal ID="20">0,0</FixtureVal>
+   <FixtureVal ID="21">0,0</FixtureVal>
+   <FixtureVal ID="22">0,0</FixtureVal>
+   <FixtureVal ID="23">0,0</FixtureVal>
    <FixtureVal ID="4294967295"/>
   </Function>
   <Function ID="74" Type="Scene" Name="S06-1" Path="Show Cues">
@@ -1052,6 +1138,135 @@
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
    <Source>D:/WindInTheWillows/OST/20-1.mp3</Source>
   </Function>
+  <Function ID="103" Type="Scene" Name="Scene for A-02-1 - Track 2">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,0</FixtureVal>
+   <FixtureVal ID="1">0,0</FixtureVal>
+   <FixtureVal ID="2">0,0</FixtureVal>
+   <FixtureVal ID="3">0,0</FixtureVal>
+   <FixtureVal ID="4">0,0</FixtureVal>
+   <FixtureVal ID="5">0,0</FixtureVal>
+   <FixtureVal ID="6">0,0</FixtureVal>
+   <FixtureVal ID="7">0,0</FixtureVal>
+   <FixtureVal ID="8">0,0</FixtureVal>
+   <FixtureVal ID="9">0,0</FixtureVal>
+   <FixtureVal ID="10">0,0</FixtureVal>
+   <FixtureVal ID="11">0,0</FixtureVal>
+   <FixtureVal ID="12">0,0</FixtureVal>
+   <FixtureVal ID="13">0,0</FixtureVal>
+   <FixtureVal ID="14">0,0</FixtureVal>
+   <FixtureVal ID="15">0,0</FixtureVal>
+   <FixtureVal ID="16">0,0</FixtureVal>
+   <FixtureVal ID="17">0,0</FixtureVal>
+   <FixtureVal ID="18">0,0</FixtureVal>
+   <FixtureVal ID="19">0,0</FixtureVal>
+   <FixtureVal ID="20">0,0</FixtureVal>
+   <FixtureVal ID="21">0,0</FixtureVal>
+   <FixtureVal ID="22">0,0</FixtureVal>
+   <FixtureVal ID="23">0,0</FixtureVal>
+   <FixtureVal ID="24">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="25">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="26">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="27">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="28">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="29">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="30">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="31">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="32">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="33">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="34">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="35">0,0,1,0,2,0</FixtureVal>
+  </Function>
+  <Function ID="104" Type="Chaser" Name="New Sequence 104">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
+   <Sequence BoundScene="103"/>
+   <Step Number="0" FadeIn="0" Hold="0" FadeOut="0" Values="60">16,0,255,17,0,255</Step>
+   <Step Number="1" FadeIn="10000" Hold="60000" FadeOut="0" Values="60">0,0,255,1,0,255,2,0,255,3,0,255,4,0,255,5,0,255,6,0,255,7,0,255,8,0,255,9,0,255,10,0,255,11,0,255,12,0,255,13,0,255,14,0,255,15,0,255,16,0,255,17,0,255,18,0,255,19,0,255</Step>
+   <Step Number="2" FadeIn="10000" Hold="300000" FadeOut="0" Values="60">24,2,127,25,2,127,26,2,127,27,2,127,28,2,127,29,2,127</Step>
+  </Function>
+  <Function ID="105" Type="Scene" Name="S03-1" Path="Show Cues">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,0</FixtureVal>
+   <FixtureVal ID="1">0,0</FixtureVal>
+   <FixtureVal ID="2">0,255</FixtureVal>
+   <FixtureVal ID="3">0,255</FixtureVal>
+   <FixtureVal ID="4">0,255</FixtureVal>
+   <FixtureVal ID="5">0,255</FixtureVal>
+   <FixtureVal ID="6">0,0</FixtureVal>
+   <FixtureVal ID="7">0,0</FixtureVal>
+   <FixtureVal ID="8">0,0</FixtureVal>
+   <FixtureVal ID="9">0,255</FixtureVal>
+   <FixtureVal ID="10">0,255</FixtureVal>
+   <FixtureVal ID="11">0,255</FixtureVal>
+   <FixtureVal ID="12">0,255</FixtureVal>
+   <FixtureVal ID="13">0,0</FixtureVal>
+   <FixtureVal ID="14">0,0</FixtureVal>
+   <FixtureVal ID="15">0,0</FixtureVal>
+   <FixtureVal ID="16">0,255</FixtureVal>
+   <FixtureVal ID="17">0,255</FixtureVal>
+   <FixtureVal ID="18">0,0</FixtureVal>
+   <FixtureVal ID="19">0,0</FixtureVal>
+   <FixtureVal ID="20">0,0</FixtureVal>
+   <FixtureVal ID="21">0,0</FixtureVal>
+   <FixtureVal ID="22">0,0</FixtureVal>
+   <FixtureVal ID="23">0,0</FixtureVal>
+   <FixtureVal ID="24">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="25">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="26">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="27">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="28">0,0,1,127,2,255</FixtureVal>
+   <FixtureVal ID="29">0,0,1,127,2,255</FixtureVal>
+  </Function>
+  <Function ID="106" Type="Scene" Name="Scene for A-17-1 - Track 2">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <FixtureVal ID="0">0,0</FixtureVal>
+   <FixtureVal ID="1">0,0</FixtureVal>
+   <FixtureVal ID="2">0,0</FixtureVal>
+   <FixtureVal ID="3">0,0</FixtureVal>
+   <FixtureVal ID="4">0,0</FixtureVal>
+   <FixtureVal ID="5">0,0</FixtureVal>
+   <FixtureVal ID="6">0,0</FixtureVal>
+   <FixtureVal ID="7">0,0</FixtureVal>
+   <FixtureVal ID="8">0,0</FixtureVal>
+   <FixtureVal ID="9">0,0</FixtureVal>
+   <FixtureVal ID="10">0,0</FixtureVal>
+   <FixtureVal ID="11">0,0</FixtureVal>
+   <FixtureVal ID="12">0,0</FixtureVal>
+   <FixtureVal ID="13">0,0</FixtureVal>
+   <FixtureVal ID="14">0,0</FixtureVal>
+   <FixtureVal ID="15">0,0</FixtureVal>
+   <FixtureVal ID="16">0,0</FixtureVal>
+   <FixtureVal ID="17">0,0</FixtureVal>
+   <FixtureVal ID="18">0,0</FixtureVal>
+   <FixtureVal ID="19">0,0</FixtureVal>
+   <FixtureVal ID="20">0,0</FixtureVal>
+   <FixtureVal ID="21">0,0</FixtureVal>
+   <FixtureVal ID="22">0,0</FixtureVal>
+   <FixtureVal ID="23">0,0</FixtureVal>
+   <FixtureVal ID="30">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="31">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="32">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="33">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="34">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="35">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="24"/>
+   <FixtureVal ID="25"/>
+   <FixtureVal ID="26"/>
+   <FixtureVal ID="27"/>
+   <FixtureVal ID="28"/>
+   <FixtureVal ID="29"/>
+  </Function>
+  <Function ID="107" Type="Chaser" Name="New Sequence 107">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
+   <Sequence BoundScene="106"/>
+   <Step Number="0" FadeIn="5000" Hold="300000" FadeOut="5000" Values="42">16,0,255,17,0,255</Step>
+  </Function>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
    <ChannelStyle>0</ChannelStyle>
@@ -1101,7 +1316,7 @@
     <Font>Default</Font>
    </Appearance>
    <CueList Caption="Cue list" ID="0">
-    <WindowState Visible="False" X="0" Y="0" Width="1370" Height="765"/>
+    <WindowState Visible="True" X="0" Y="0" Width="1370" Height="765"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
