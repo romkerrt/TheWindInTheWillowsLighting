@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FunctionManager">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.5b</Version>
@@ -718,7 +718,7 @@
    <Step Number="32" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">83</Step>
    <Step Number="33" FadeIn="0" Hold="9000" FadeOut="0" Note="** Jail SFX">20</Step>
    <Step Number="34" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">84</Step>
-   <Step Number="35" FadeIn="0" Hold="201000" FadeOut="0" Note="**The Chase-Chase">10</Step>
+   <Step Number="35" FadeIn="0" Hold="201000" FadeOut="0" Note="**The Chase-Chase TODO: Tony">10</Step>
    <Step Number="36" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">85</Step>
    <Step Number="37" FadeIn="0" Hold="6000" FadeOut="0" Note="**Horse SFX">22</Step>
    <Step Number="38" FadeIn="3000" Hold="4294967294" FadeOut="3000" Note="**">86</Step>
@@ -1316,7 +1316,7 @@
     <Font>Default</Font>
    </Appearance>
    <CueList Caption="Cue list" ID="0">
-    <WindowState Visible="True" X="0" Y="0" Width="1370" Height="765"/>
+    <WindowState Visible="False" X="0" Y="0" Width="1370" Height="765"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
