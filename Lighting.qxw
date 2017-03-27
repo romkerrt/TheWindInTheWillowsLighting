@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FunctionManager">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FixtureManager">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.5b</Version>
@@ -1046,26 +1046,38 @@
    <ChannelStyle>0</ChannelStyle>
    <ValueStyle>0</ValueStyle>
    <Grid Width="13" Height="18" Units="0"/>
-   <FxItem ID="14" XPos="1500" YPos="4000"/>
-   <FxItem ID="15" XPos="3500" YPos="4000"/>
-   <FxItem ID="12" XPos="9500" YPos="11500"/>
-   <FxItem ID="13" XPos="11500" YPos="11500"/>
-   <FxItem ID="10" XPos="5500" YPos="11500"/>
-   <FxItem ID="11" XPos="7500" YPos="11500"/>
-   <FxItem ID="8" XPos="1500" YPos="11500"/>
-   <FxItem ID="9" XPos="3500" YPos="11500"/>
-   <FxItem ID="18" XPos="9500" YPos="4000"/>
-   <FxItem ID="19" XPos="11500" YPos="4000"/>
-   <FxItem ID="16" XPos="5500" YPos="4000"/>
-   <FxItem ID="17" XPos="7500" YPos="4000"/>
-   <FxItem ID="6" XPos="11000" YPos="17500"/>
-   <FxItem ID="7" XPos="12000" YPos="17500"/>
-   <FxItem ID="4" XPos="7000" YPos="17500"/>
    <FxItem ID="5" XPos="8000" YPos="17500"/>
-   <FxItem ID="2" XPos="5000" YPos="17500"/>
-   <FxItem ID="3" XPos="6000" YPos="17500"/>
-   <FxItem ID="0" XPos="1000" YPos="17500"/>
+   <FxItem ID="4" XPos="7000" YPos="17500"/>
+   <FxItem ID="33" XPos="12000" YPos="6000"/>
+   <FxItem ID="7" XPos="12000" YPos="17500"/>
+   <FxItem ID="32" XPos="1000" YPos="6000"/>
+   <FxItem ID="6" XPos="11000" YPos="17500"/>
+   <FxItem ID="35" XPos="12000" YPos="10000"/>
+   <FxItem ID="9" XPos="3500" YPos="11500"/>
+   <FxItem ID="34" XPos="12000" YPos="8000"/>
+   <FxItem ID="8" XPos="1500" YPos="11500"/>
+   <FxItem ID="11" XPos="7500" YPos="11500"/>
+   <FxItem ID="10" XPos="5500" YPos="11500"/>
+   <FxItem ID="13" XPos="11500" YPos="11500"/>
+   <FxItem ID="12" XPos="9500" YPos="11500"/>
+   <FxItem ID="15" XPos="3500" YPos="4000"/>
+   <FxItem ID="14" XPos="1500" YPos="4000"/>
+   <FxItem ID="17" XPos="7500" YPos="4000"/>
+   <FxItem ID="16" XPos="5500" YPos="4000"/>
+   <FxItem ID="19" XPos="11500" YPos="4000"/>
+   <FxItem ID="18" XPos="9500" YPos="4000"/>
+   <FxItem ID="25" XPos="5000" YPos="13000"/>
+   <FxItem ID="24" XPos="4000" YPos="13000"/>
+   <FxItem ID="27" XPos="7000" YPos="13000"/>
+   <FxItem ID="26" XPos="6000" YPos="13000"/>
+   <FxItem ID="29" XPos="9000" YPos="13000"/>
+   <FxItem ID="28" XPos="8000" YPos="13000"/>
+   <FxItem ID="31" XPos="1000" YPos="8000"/>
+   <FxItem ID="30" XPos="1000" YPos="10000"/>
    <FxItem ID="1" XPos="2000" YPos="17500"/>
+   <FxItem ID="0" XPos="1000" YPos="17500"/>
+   <FxItem ID="3" XPos="6000" YPos="17500"/>
+   <FxItem ID="2" XPos="5000" YPos="17500"/>
   </Monitor>
  </Engine>
  <VirtualConsole>
