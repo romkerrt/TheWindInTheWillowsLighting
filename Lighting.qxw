@@ -697,7 +697,7 @@
    <Step Number="2" FadeIn="3000" Hold="4294967294" FadeOut="3000">97</Step>
    <Step Number="3" FadeIn="0" Hold="180000" FadeOut="0" Note="** Overture">0</Step>
    <Step Number="4" FadeIn="3000" Hold="4294967294" FadeOut="3000">71</Step>
-   <Step Number="5" FadeIn="0" Hold="157000" FadeOut="0" Note="Friends Together">1</Step>
+   <Step Number="5" FadeIn="0" Hold="157000" FadeOut="0" Note="S:FO Friends Together">1</Step>
    <Step Number="6" FadeIn="3000" Hold="4294967294" FadeOut="3000">72</Step>
    <Step Number="7" FadeIn="3000" Hold="4294967294" FadeOut="3000">105</Step>
    <Step Number="8" FadeIn="0" Hold="58000" FadeOut="0" Note="Scene Change">16</Step>
@@ -707,7 +707,7 @@
    <Step Number="12" FadeIn="3000" Hold="4294967294" FadeOut="3000">74</Step>
    <Step Number="13" FadeIn="3000" Hold="4294967294" FadeOut="3000">108</Step>
    <Step Number="14" FadeIn="3" Hold="4294967294" FadeOut="3">97</Step>
-   <Step Number="15" FadeIn="0" Hold="147000" FadeOut="0" Note="Wind SFX">18</Step>
+   <Step Number="15" FadeIn="0" Hold="147000" FadeOut="0" Note="S:FO Wind SFX">18</Step>
    <Step Number="16" FadeIn="3000" Hold="4294967294" FadeOut="3000">129</Step>
    <Step Number="17" FadeIn="3000" Hold="4294967294" FadeOut="3000">130</Step>
    <Step Number="18" FadeIn="3000" Hold="4294967294" FadeOut="3000">75</Step>
@@ -1030,16 +1030,16 @@
   </Function>
   <Function ID="77" Type="Scene" Name="S12-1" Path="Show Cues">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <FixtureVal ID="0">0,255</FixtureVal>
-   <FixtureVal ID="1">0,255</FixtureVal>
+   <FixtureVal ID="0">0,0</FixtureVal>
+   <FixtureVal ID="1">0,0</FixtureVal>
    <FixtureVal ID="2">0,0</FixtureVal>
    <FixtureVal ID="3">0,0</FixtureVal>
    <FixtureVal ID="4">0,0</FixtureVal>
    <FixtureVal ID="5">0,0</FixtureVal>
    <FixtureVal ID="6">0,0</FixtureVal>
    <FixtureVal ID="7">0,0</FixtureVal>
-   <FixtureVal ID="8">0,0</FixtureVal>
-   <FixtureVal ID="9">0,0</FixtureVal>
+   <FixtureVal ID="8">0,255</FixtureVal>
+   <FixtureVal ID="9">0,255</FixtureVal>
    <FixtureVal ID="10">0,0</FixtureVal>
    <FixtureVal ID="11">0,0</FixtureVal>
    <FixtureVal ID="12">0,0</FixtureVal>
@@ -1602,8 +1602,8 @@
    <FixtureVal ID="13">0,0</FixtureVal>
    <FixtureVal ID="14">0,0</FixtureVal>
    <FixtureVal ID="15">0,0</FixtureVal>
-   <FixtureVal ID="16">0,255</FixtureVal>
-   <FixtureVal ID="17">0,255</FixtureVal>
+   <FixtureVal ID="16">0,0</FixtureVal>
+   <FixtureVal ID="17">0,0</FixtureVal>
    <FixtureVal ID="18">0,0</FixtureVal>
    <FixtureVal ID="19">0,0</FixtureVal>
    <FixtureVal ID="20">0,0</FixtureVal>
@@ -1852,8 +1852,8 @@
    <RunOrder>SingleShot</RunOrder>
    <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
    <Sequence BoundScene="125"/>
-   <Step Number="0" FadeIn="0" Hold="0" FadeOut="0" Values="0"/>
-   <Step Number="1" FadeIn="5000" Hold="300000" FadeOut="0" Values="0"/>
+   <Step Number="0" FadeIn="0" Hold="0" FadeOut="0" Values="24"/>
+   <Step Number="1" FadeIn="5000" Hold="300000" FadeOut="0" Values="24">2,0,255,3,0,255,4,0,255,5,0,255,6,0,191,7,0,191,10,0,255,11,0,255,12,0,255,13,0,255,16,0,255,17,0,255</Step>
   </Function>
   <Function ID="127" Type="Scene" Name="Scene for A-20-2 - Track 2">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
@@ -1888,7 +1888,7 @@
    <RunOrder>SingleShot</RunOrder>
    <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
    <Sequence BoundScene="127"/>
-   <Step Number="0" FadeIn="0" Hold="60000" FadeOut="0" Values="0"/>
+   <Step Number="0" FadeIn="0" Hold="60000" FadeOut="0" Values="24"/>
   </Function>
   <Function ID="129" Type="Scene" Name="S8-1" Path="Show Cues">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
@@ -1970,6 +1970,9 @@
    <FixtureVal ID="21">0,0</FixtureVal>
    <FixtureVal ID="22">0,0</FixtureVal>
    <FixtureVal ID="23">0,0</FixtureVal>
+   <FixtureVal ID="30">0,0,1,0,2,0</FixtureVal>
+   <FixtureVal ID="31">0,0,1,191,2,255</FixtureVal>
+   <FixtureVal ID="32">0,0,1,191,2,255</FixtureVal>
   </Function>
   <Monitor DisplayMode="1" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
@@ -2020,7 +2023,7 @@
     <Font>Default</Font>
    </Appearance>
    <CueList Caption="Cue list" ID="0">
-    <WindowState Visible="False" X="0" Y="0" Width="1370" Height="765"/>
+    <WindowState Visible="False" X="0" Y="0" Width="1030" Height="775"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
